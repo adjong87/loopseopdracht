@@ -44,9 +44,9 @@ const squares = [30, 2, 8, 24, 11];
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
-// console.log(numbers) geeft: [30, 2, 8, 24, 11];
+// console.log(squares) geeft: [30, 2, 8, 24, 11];
 // Na jouw script zie je de aangepaste waardes:
-// console.log(numbers) geeft: [
+// console.log(squares) geeft: [
 //   'Het volume van 30 is 27000',
 //   'Het volume van 2 is 8',
 //   'Het volume van 8 is 512',
