@@ -27,7 +27,7 @@ const numbers = [2, 4, 5, 29, 38];
 // Vóór het script zie je de originele waardes:
 // console.log(numbers) geeft: [2, 4, 5, 29, 38];
 // Na jouw script zie je de aangepaste waardes:
-// console.log(numbers) geeft: [ 4, 8, 10, 87, 76 ];
+// console.log(numbers) geeft: [ 4, 8, 15, 87, 76 ];
 
 
 
